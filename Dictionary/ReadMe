@@ -1,0 +1,5 @@
+- User is provided with a dictionary file ‘course.txt’ that contains a list of words followed by their definitions as either text or a .gif or .wav (audio) file.
+- Initiate program using ‘Query course.txt’ in which ‘course.txt’ is the dictionary file.
+- User can request definition of word using 'define [word]' and the definition, be it text, image, or sound, will be displayed.
+- The user can also add a word to the dictionary using 'add [word] [definiton]', delete using 'delete [word]', return a list of all words beginning with a certain string of letters using 'list [string]', or return following or previous entry in dictionary using 'next [word]' or 'previous [word]', respectively.
+- Terminate program with 'end'

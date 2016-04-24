@@ -1,0 +1,2 @@
+- Tic tac toe game using GUI, implemented using hash tables.
+- Initiate game using 'PlayTTT [board size] [number to win] [depth to search]', in which 'board size' is the side dimension of the square board, 'number to win' is the number of consecutive Xs/Os that the player/computer must make in a line in order to win, and 'depth to search' is the number of steps ahead that the computer should search in order to plan its next move. Think of this as a measure of the computer's intelligence.

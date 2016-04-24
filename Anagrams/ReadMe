@@ -1,0 +1,4 @@
+- Program to find all anagrams of all words in a file based on provided dictionary file.
+- Implements AVL trees to efficiently store and look up entries in input text file and dictionary file.
+- Invoked from command line by FindAnagrams dictionary.txt words.txt, in which FindAnagrams is the main Java program, dictionary.txt contains extensive list of English words, and words.txt is a sample file for which to find anagrams.
+- Saves results in 'out.txt'

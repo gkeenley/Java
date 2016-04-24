@@ -1,0 +1,3 @@
+- Program to detect plagiarism by searching for common substrings between two files.
+- Invoked using 'CheatDetect keywords.txt [file1] [file2] [length]'
+- PRogram will detect all common strings between file1 and file2 of length 'length', ignoring whitespaces and user-defined variable names.
