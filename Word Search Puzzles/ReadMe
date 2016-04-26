@@ -1,2 +1,2 @@
-- Program to find all words in an input word search puzzle, based on an input dictionary file.
+- Program to find all words in an input word search puzzle, based on an input dictionary file, implemented using hash tables.
 - Run using 'WordSearch puzzle.txt dictionary.txt', in which puzzle.txt is a file containing a a grid of letters representing a owrd search puzzle, and dictionary.txt is a list of 'all' English words.
